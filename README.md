@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+
+# nodejsapp
+practice of below
+
+
 # Serverless - AWS Node.js Typescript
 
 This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
@@ -94,6 +98,4 @@ The project code base is mainly located within the `src` folder. This folder is 
 ### Advanced usage
 
 Any tsconfig.json can be used, but if you do, set the environment variable `TS_NODE_CONFIG` for building the application, eg `TS_NODE_CONFIG=./tsconfig.app.json npx serverless webpack`
-=======
-# nodejsapp
->>>>>>> origin/main
+
