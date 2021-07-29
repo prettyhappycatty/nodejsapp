@@ -100,3 +100,9 @@ The project code base is mainly located within the `src` folder. This folder is 
 Any tsconfig.json can be used, but if you do, set the environment variable `TS_NODE_CONFIG` for building the application, eg `TS_NODE_CONFIG=./tsconfig.app.json npx serverless webpack`
 
 ### tkataoka3 comment
+
+### koji-okinaka comment
+前橋るなぱあくが子供にオススメです。
+https://www.lunapark-maebashi.com/
+回数券11枚で500円
+夢の国との費用対効果が激しすぎます
