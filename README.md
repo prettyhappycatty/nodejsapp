@@ -106,3 +106,5 @@ Any tsconfig.json can be used, but if you do, set the environment variable `TS_N
 https://www.lunapark-maebashi.com/
 回数券11枚で500円
 夢の国との費用対効果が激しすぎます
+
+###kmatsumoto3 comment
