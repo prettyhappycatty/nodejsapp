@@ -110,3 +110,5 @@ https://www.lunapark-maebashi.com/
 ### Shizuka-7nm comment やっとここまでたどり着きました
 
 ### kmatsumoto3遅くなりました。。
+
+### KondouA更新しました〜(＞o＜)
