@@ -112,3 +112,5 @@ https://www.lunapark-maebashi.com/
 ### kmatsumoto3遅くなりました。。
 
 ### KondouA更新しました〜(＞o＜)
+
+### RyuUehara かなりつまずいたけど楽しかったです！
